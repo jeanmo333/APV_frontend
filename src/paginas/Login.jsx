@@ -45,8 +45,8 @@ const Login = () => {
   return (
     <>
       <div>
-        <h1 className="text-indigo-600 font-black text-5xl text-center">
-          Inicia Sesión y Administra tus {""}
+        <h1 className="text-indigo-600 font-black text-4xl text-center">
+          Inicia Sesión en apv y Administra tus {""}
           <span className="text-black"> Pacientes</span>
         </h1>
       </div>

@@ -54,8 +54,8 @@ const Registrar = () => {
   return (
     <>
       <div>
-        <h1 className="text-indigo-600 font-black text-5xl text-center">
-          Crea tu Cuenta y Administra {""}
+        <h1 className="text-indigo-600 font-black text-4xl text-center">
+          Crea tu Cuenta en apv y Administra {""}
           <span className="text-black">tus Pacientes</span>
         </h1>
       </div>

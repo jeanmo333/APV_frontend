@@ -34,8 +34,8 @@ const OlvidePassword = () => {
   return (
     <>
       <div>
-        <h1 className="text-indigo-600 font-black text-5xl text-center">
-          Recupera tu Acceso y no Pierdas {""}
+        <h1 className="text-indigo-600 font-black text-4xl text-center">
+          Recupera tu Acceso en apv y no Pierdas {""}
           <span className="text-black">tus Pacientes</span>
         </h1>
       </div>
